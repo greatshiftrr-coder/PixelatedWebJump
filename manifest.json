@@ -1,0 +1,21 @@
+{
+  "short_name": "Web Jump",
+  "name": "Pixelated Web Jump",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://i.postimg.cc/HsXrvb4j/Untitled-02-13-2026-11-28-18.png",
+  "background_color": "#1a1a1a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4a90e2"
+}
